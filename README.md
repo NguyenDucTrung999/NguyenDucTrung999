@@ -42,7 +42,7 @@
 
 ---
 
-### 🧠 Pure AI Projects (Dự án Thuần AI)
+### 🧠 Pure AI Projects 
 
 | Project Name | Role | Technology Stack | Key Features / Achievements |
 | :--- | :--- | :--- | :--- |
@@ -53,8 +53,7 @@
 
 ---
 
-### 🌐 AI-Integrated Web Projects (Dự án Web Tích hợp AI)
-
+### 🌐 AI-Integrated Web Projects 
 | Project Name | Role | Technology Stack | Key Features / Achievements |
 | :--- | :--- | :--- | :--- |
 | 🍎 [Advanced AI System for Smart Food Marketplace](https://github.com/NguyenDucTrung999/Advanced_AI2) | Lead AI & Backend | YOLOv10, OpenCV, EigenCAM, Collaborative Filtering, Flask, Ruff | Developed a hybrid computer vision system combining **YOLOv10** object detection with traditional **OpenCV** contour analysis and HSV color masking to assess food quality, size, and defects. Integrated **EigenCAM** for Explainable AI (XAI) visual heatmaps and built a collaborative filtering recommendation engine. |
@@ -62,7 +61,7 @@
 
 ---
 
-### 💻 Web & Software Projects (Dự án Web & Phần mềm)
+### 💻 Web & Software Projects 
 
 | Project Name | Role | Technology Stack | Key Features / Achievements |
 | :--- | :--- | :--- | :--- |
