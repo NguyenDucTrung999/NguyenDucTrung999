@@ -35,27 +35,34 @@
 | **Backend & APIs** | `FastAPI`, `Django`, `Flask`, `Flask-SQLAlchemy` (ORM), `Pydantic` (Data Validation), `RESTful APIs` |
 | **Frontend & UI/UX** | `HTML5`, `CSS3`, `Tailwind CSS`, `Kotlin SDK` (Android), `CustomTkinter` (Python GUI), `Figma` (UI/UX Design) |
 | **DevOps, MLOps & QA** | `Docker`, `Docker Compose`, `Nginx` (Reverse Proxy / Load Balancer), `GitLab CI/CD`, `GitHub Actions`, `Pytest` (Unit Testing) |
-| **Developer Tools & IDEs** | `Git`, `GitHub`, `GitLab`, `VS Code`, `Android Studio`, `Jupyter Notebook`, `Ruff` (Linter & Formatter) |
+| **Developer Tools & IDEs** | `Git`, `GitHub`, `GitLab`, `VS Code`, `Android Studio`, `PyCharm`, `Jupyter Notebook`, `Ruff` (Linter & Formatter) |
 | **Operating Systems** | `Windows`, `Linux` (Ubuntu) |
 | **Languages** | `English` (IELTS 6.0), `Vietnamese` (Native) |
 | **Soft Skills** | `Design Thinking`, `Team Management`, `Critical Thinking`, `Problem Solving`, `Creativity` |
 
 ---
 
-### 🧠 AI & AI-Integrated Projects
+### 🧠 Pure AI Projects (Dự án Thuần AI)
 
 | Project Name | Role | Technology Stack | Key Features / Achievements |
 | :--- | :--- | :--- | :--- |
-| 🍎 [Advanced AI System for Smart Food Marketplace](https://github.com/NguyenDucTrung999/Advanced_AI2) | Lead AI & Backend | YOLOv10, OpenCV, EigenCAM, Collaborative Filtering, Ruff | Developed a hybrid computer vision system combining **YOLOv10** object detection with traditional **OpenCV** contour analysis and HSV color masking to assess food quality, size, and defects. Integrated **EigenCAM** for Explainable AI (XAI) visual heatmaps and built a collaborative filtering recommendation engine. |
-| 🏥 [CCU HTM: Intelligent Critical Care Unit Management](https://github.com/NguyenDucTrung999/ccu-htm) | Full-Stack & DevOps | Flask, MySQL, Tailwind CSS, Docker, Nginx, Alerting | Designed and implemented a healthcare management web portal tracking vital patient metrics. Developed an automated real-time physiological data-driven pipeline with abnormality threshold detection and alerting systems for patient vitals. |
-| 🇻🇳 [Vietnamese Image Captioning & RAG System](https://github.com/NguyenDucTrung999/smallcap-vietnamese) | AI Research | PyTorch, Transformers, SmallCap/Yova, RAG, COCO Metrics | Built an image-to-text generation system in Vietnamese utilizing PyTorch and the `SmallCap/Yova` architecture. Integrated Retrieval-Augmented Generation (**RAG**) with a vector index to supply contextual metadata, evaluating the model using SPICE and CIDEr metrics. |
 | 🚗 [Car Damage Instance Segmentation](https://github.com/NguyenDucTrung999/car-damage-segmentation) | CV Developer | YOLOv9 Gelan-C-Seg, PyTorch, OpenCV, Augmentation | Trained a **YOLOv9** instance segmentation model to localize and classify vehicle damages (scratches, dents, fractures) for automotive insurance automation. Created an OpenCV preprocessing and image augmentation pipeline to enhance robustness. **Won Second Prize (Tech Category) at ISIC 2025**. |
 | 💳 Automated License Plate Recognition (ALPR) System | CV Developer | YOLOv10 (Bounding Box), EasyOCR, OpenCV, Python | Engineered an end-to-end license plate recognition pipeline using **YOLOv10** (bounding boxes) for plate localization and **EasyOCR** for character extraction and text identification. Optimized detection speed and reading accuracy under challenging lighting conditions. |
+| 🇻🇳 [Vietnamese Image Captioning & RAG System](https://github.com/NguyenDucTrung999/smallcap-vietnamese) | AI Research | PyTorch, Transformers, SmallCap/Yova, RAG, COCO Metrics | Built an image-to-text generation system in Vietnamese utilizing PyTorch and the `SmallCap/Yova` architecture. Integrated Retrieval-Augmented Generation (**RAG**) with a vector index to supply contextual metadata, evaluating the model using SPICE and CIDEr metrics. |
 | ⚽ [Football Match Outcome Prediction](https://github.com/NguyenDucTrung999/match_prediction) | ML Developer | scikit-learn, CustomTkinter, Matplotlib, Python | Developed a machine learning pipeline using **scikit-learn** models to analyze historical football team statistics and predict match outcomes. Integrated with **CustomTkinter** for a responsive desktop interface and **Matplotlib** for data visualization. |
 
 ---
 
-### 🌐 Web & Software Projects
+### 🌐 AI-Integrated Web Projects (Dự án Web Tích hợp AI)
+
+| Project Name | Role | Technology Stack | Key Features / Achievements |
+| :--- | :--- | :--- | :--- |
+| 🍎 [Advanced AI System for Smart Food Marketplace](https://github.com/NguyenDucTrung999/Advanced_AI2) | Lead AI & Backend | YOLOv10, OpenCV, EigenCAM, Collaborative Filtering, Flask, Ruff | Developed a hybrid computer vision system combining **YOLOv10** object detection with traditional **OpenCV** contour analysis and HSV color masking to assess food quality, size, and defects. Integrated **EigenCAM** for Explainable AI (XAI) visual heatmaps and built a collaborative filtering recommendation engine. |
+| 🏥 [CCU HTM: Intelligent Critical Care Unit Management](https://github.com/NguyenDucTrung999/ccu-htm) | Full-Stack & DevOps | Flask, MySQL, Tailwind CSS, Docker, Nginx, Alerting | Designed and implemented a healthcare management web portal tracking vital patient metrics. Developed an automated real-time physiological data-driven pipeline with abnormality threshold detection and alerting systems for patient vitals. |
+
+---
+
+### 💻 Web & Software Projects (Dự án Web & Phần mềm)
 
 | Project Name | Role | Technology Stack | Key Features / Achievements |
 | :--- | :--- | :--- | :--- |
@@ -64,6 +71,3 @@
 
 ---
 
-<p align="center">
-  <i>Happy coding! 🚀</i>
-</p>
