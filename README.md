@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <strong>AI & Software Engineering Student at UWE Bristol - Phenikaa Campus</strong>
+  <strong>AI Engineering Student at UWE Bristol - Phenikaa Campus</strong>
 </p>
 
 <p align="center">
-  <strong>Focus: AI (Computer Vision & NLP) | Full-Stack Web (Django/FastAPI) | DevOps</strong>
+  <strong>Focus: Computer Vision | NLP & RAG | MLOps | AI Integration</strong>
 </p>
 
 ---
@@ -20,23 +20,26 @@
 *   🎓 I'm a third-year **Information Technology** student at **UWE Bristol - Phenikaa Campus, Vietnam** (Expected Graduation: Oct 2026).
 *   🏆 Awarded **Second Prize (Technology Category)** at the **ISIC 2025** (Student Scientific Research & Innovation Competition) for my *Car Damage Instance Segmentation* project.
 *   💻 Passionate about building and deploying intelligent deep learning models alongside robust and scalable backend systems.
-*   🛠️ Currently focusing on **YOLOv9/v10**, **PyTorch**, **Transformers**, **FastAPI/Django/Flask**, and **Docker/Nginx** pipelines.
+*   🛠️ Currently focusing on **YOLOv9/v10**, **PyTorch**, **Transformers**, **FastAPI**, and **Docker** pipelines for AI deployment.
 *   📫 Feel free to collaborate or reach out via email: **trungducnguyen2k@gmail.com**
 
 ---
 
-### 🛠️ Technical Skills
+### 🛠️ Technical Skills (AI Engineer Focus)
 
 | Category | Technologies / Tools |
 | :--- | :--- |
-| **Languages & DBs** | `Python`, `Kotlin` (Android Native), `JavaScript`, `C/C++`, `SQL` (`MySQL`, `PostgreSQL`, `SQLite`) |
-| **AI & Machine Learning** | `YOLOv10`, `YOLOv9`, `YOLOv8`, `PyTorch`, `TensorFlow`, `OpenCV` (Contour/HSV Masking), `Transformers` (Hugging Face), `RAG` |
-| **XAI, Recommendation & Data** | `EigenCAM` (Explainable AI), `Collaborative Filtering` (`rules.pkl`), `scikit-learn`, `NumPy`, `Pandas`, `Matplotlib` |
-| **Backend & APIs** | `FastAPI`, `Django`, `Flask`, `Flask-SQLAlchemy` (ORM), `Pydantic` (Data Validation), `RESTful APIs` |
-| **Frontend & UI/UX** | `HTML5`, `CSS3`, `Tailwind CSS`, `Kotlin SDK` (Android), `CustomTkinter` (Python GUI), `Figma` (UI/UX Design) |
-| **DevOps, MLOps & QA** | `Docker`, `Docker Compose`, `Nginx` (Reverse Proxy / Load Balancer), `GitLab CI/CD`, `GitHub Actions`, `Pytest` (Unit Testing) |
-| **Developer Tools & IDEs** | `Git`, `GitHub`, `GitLab`, `VS Code`, `Android Studio`, `PyCharm`, `Jupyter Notebook`, `Ruff` (Linter & Formatter) |
-| **Operating Systems** | `Windows`, `Linux` (Ubuntu) |
+| **Languages & Database** | `Python`, `C/C++`, `SQL` (`PostgreSQL`, `MySQL`) |
+| **Deep Learning & CV** | `PyTorch`, `TensorFlow`, `YOLOv8/v9/v10`, `OpenCV` |
+| **NLP & LLMs** | `Transformers` (Hugging Face), `RAG` (Retrieval-Augmented Generation) |
+| **ML, Data & XAI** | `scikit-learn`, `NumPy`, `Pandas`, `Matplotlib`, `EigenCAM` (Explainable AI) |
+| **Model Serving & APIs** | `FastAPI`, `Flask`, `Django`, `RESTful APIs` |
+| **MLOps & DevOps** | `Docker`, `Docker Compose`, `GitLab CI/CD`, `GitHub Actions`, `Nginx` |
+| **Tools & Environment** | `Jupyter Notebook`, `Git`, `Linux (Ubuntu)`, `VS Code` |
+
+### 🗣️ Languages & Soft Skills
+| Category | Details |
+| :--- | :--- |
 | **Languages** | `English` (IELTS 6.0), `Vietnamese` (Native) |
 | **Soft Skills** | `Design Thinking`, `Team Management`, `Critical Thinking`, `Problem Solving`, `Creativity` |
 
@@ -54,19 +57,19 @@
 ---
 
 ### 🌐 AI-Integrated Web Projects 
-| Project Name | Role | Technology Stack | Key Features / Achievements |
-| :--- | :--- | :--- | :--- |
-| 🍎 [Advanced AI System for Smart Food Marketplace](https://github.com/NguyenDucTrung999/Advanced_AI2) | Lead AI & Backend | YOLOv10, OpenCV, EigenCAM, Collaborative Filtering, Flask, Ruff | Developed a hybrid computer vision system combining **YOLOv10** object detection with traditional **OpenCV** contour analysis and HSV color masking to assess food quality, size, and defects. Integrated **EigenCAM** for Explainable AI (XAI) visual heatmaps and built a collaborative filtering recommendation engine. |
-| 🏥 [CCU HTM: Intelligent Critical Care Unit Management](https://github.com/NguyenDucTrung999/ccu-htm) | Full-Stack & DevOps | Flask, MySQL, Tailwind CSS, Docker, Nginx, Alerting | Designed and implemented a healthcare management web portal tracking vital patient metrics. Developed an automated real-time physiological data-driven pipeline with abnormality threshold detection and alerting systems for patient vitals. |
-
----
-
-### 💻 Web & Software Projects 
 
 | Project Name | Role | Technology Stack | Key Features / Achievements |
 | :--- | :--- | :--- | :--- |
-| 🏨 [Hotel Booking & Management System](https://github.com/NguyenDucTrung999) | Full-Stack Developer | Django, Python, HTML/CSS, JavaScript, MySQL | Full-stack web application developed using **Django** to manage room availability, reservation bookings, customer records, and admin panel dashboards. |
-| 🛍️ [ShoppingApp (Enterprise Application)](https://github.com/NguyenDucTrung999/ShoppingApp) | Backend & Desktop | FastAPI, CustomTkinter, Kotlin Android, pytest, GitLab CI | Multi-platform shopping ecosystem. Powered by a FastAPI backend, desktop CustomTkinter client, native Kotlin Android app, verified with pytest & GitLab CI. |
+| 🍎 [Advanced AI System for Smart Food Marketplace](https://github.com/NguyenDucTrung999/Advanced_AI2) | Lead AI & Backend | YOLOv10, OpenCV, EigenCAM, Collaborative Filtering, FastAPI/Flask | Developed a hybrid computer vision system combining **YOLOv10** object detection with traditional **OpenCV** contour analysis and HSV color masking to assess food quality, size, and defects. Integrated **EigenCAM** for Explainable AI (XAI) visual heatmaps and built a collaborative filtering recommendation engine. |
+| 🏥 [CCU HTM: Intelligent Critical Care Unit Management](https://github.com/NguyenDucTrung999/ccu-htm) | AI & Backend Integration | Flask, MySQL, Docker, Nginx, Alerting | Designed and implemented an automated real-time physiological data-driven pipeline with abnormality threshold detection and alerting systems for patient vitals in a healthcare management web portal. |
 
 ---
 
+### 💻 Software Projects (Supporting Backend Skills)
+
+| Project Name | Role | Technology Stack | Key Features / Achievements |
+| :--- | :--- | :--- | :--- |
+| 🏨 [Hotel Booking & Management System](https://github.com/NguyenDucTrung999) | Backend Developer | Django, Python, SQL | Full-stack web application developed using **Django** to manage room availability, reservation bookings, customer records, and admin panel dashboards. |
+| 🛍️ [ShoppingApp (Enterprise Application)](https://github.com/NguyenDucTrung999/ShoppingApp) | Backend Developer | FastAPI, pytest, GitLab CI | Multi-platform shopping ecosystem backend powered by **FastAPI**, verified with pytest and deployed using GitLab CI/CD pipelines. |
+
+---
