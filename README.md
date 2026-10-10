@@ -20,7 +20,7 @@
 * 🎓 I'm a Computer Science - Artificial Intelligence student at **UWE Bristol - Phenikaa Campus, Vietnam** (GPA: **3.8/4.0**, First-Class Honours, Expected Graduation: Nov 2026).
 * 💼 **Work Experience:**
   * **Fresher AI Engineer** @ **Vnatech JSC** (Sep 2026 -- Oct 2026): Architected the *Workplace Safety Compliance AI System* (Cascaded 2-Stage Edge AI, 94.8% mAP@0.5, 2.4x FPS boost, 62% latency reduction).
-  * **AI Engineering Intern** @ **Computer Vision Company** (Jun 2026 -- Aug 2026): Engineered B2B post-OCR 2D spatial parsing algorithms & CCCD Keypoint alignment R&D.
+  * **Fresher AI Engineer** *(Promoted from AI Engineering Intern)* @ **Computer Vision Company** (Jun 2026 -- Aug 2026): Engineered B2B post-OCR 2D spatial parsing algorithms & CCCD Keypoint alignment R&D.
   * **AI & Software Engineering Intern** @ **CarDoctor Tech JSC** (Jun 2025 -- Aug 2025).
 * 🏆 Awarded **Second Prize (Technology Category)** at the **ISIC 2025** (Student Scientific Research & Innovation Competition) for my *Car Damage Instance Segmentation* project.
 * 💻 Passionate about building and deploying intelligent deep learning models alongside robust and scalable backend systems.
