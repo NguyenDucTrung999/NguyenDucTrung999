@@ -29,23 +29,14 @@
 
 ---
 
-### 🛠️ Technical Skills (AI Engineer Focus)
+### 🛠️ Technical Skills (Computer Vision & AI Focus)
 
-| Category | Technologies / Tools |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages & Database** | `Python`, `C/C++`, `SQL` (`PostgreSQL`, `MySQL`, `SQLite`) |
-| **Deep Learning & CV** | `PyTorch`, `TensorFlow`, `YOLOv8/v9/v10`, `MobileNetV3 (TorchScript JIT)`, `OpenCV`, `CenterNet`, `Keypoint Detection` |
-| **NLP & LLMs** | `Transformers` (Hugging Face), `RAG` (Retrieval-Augmented Generation) |
-| **ML, Data & XAI** | `scikit-learn`, `NumPy`, `Pandas`, `Matplotlib`, `EigenCAM` (Explainable AI) |
-| **Model Serving & APIs** | `FastAPI`, `WebSocket`, `Flask`, `Django`, `RESTful APIs` |
-| **MLOps & DevOps** | `Docker`, `Docker Compose`, `GitLab CI/CD`, `GitHub Actions`, `Nginx`, `CUDA Acceleration` |
-| **Tools & Environment** | `Jupyter Notebook`, `Git`, `Linux (Ubuntu)`, `VS Code`, `Pytest`, `Regex` |
-
-### 🗣️ Languages & Soft Skills
-| Category | Details |
-| :--- | :--- |
-| **Languages** | `English` (IELTS 6.0), `Vietnamese` (Native) |
-| **Soft Skills** | `Design Thinking`, `Team Management`, `Critical Thinking`, `Problem Solving`, `Technical Communication`, `Creativity` |
+| **Languages & Core** | `Python`, `C/C++`, `SQL` (`MySQL`, `PostgreSQL`, `SQLite`), `OOP`, `Data Structures & Algorithms` |
+| **Computer Vision & Deep Learning** | `PyTorch`, `YOLOv8/v9/v10`, `MobileNetV3 (TorchScript JIT)`, `OpenCV`, `CenterNet`, `Keypoint Detection`, `EigenCAM (XAI)` |
+| **Backend, MLOps & Deployment** | `FastAPI`, `WebSocket`, `Docker`, `Docker Compose`, `Nginx`, `CUDA Acceleration`, `Pytest`, `Git`, `Regex` |
+| **Languages & Soft Skills** | `English` (IELTS 6.0), `Vietnamese` (Native) \| `Problem Solving`, `Critical Thinking`, `Technical Communication` |
 
 ---
 
